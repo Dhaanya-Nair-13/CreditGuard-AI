@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+.venv_old/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Streamlit Cache
+.streamlit/secrets.toml
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Model Cache
+*.joblib.bak
+
+# Development test scripts
+backend/ml/src/test_*.py
+backend/ml/src/check_feature_store.py
+
+# Home Credit Dataset
+datasets/
+
+# Large artifacts
+backend/ml/artifacts/demo_features.parquet
+backend/ml/models/random_forest.pkl

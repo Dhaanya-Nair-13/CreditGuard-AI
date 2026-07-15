@@ -1,0 +1,656 @@
+Feature,Importance,Rank
+num__EXT_SOURCE_MEAN,0.020519445,1
+num__EXT_SOURCE_MAX,0.019440563,2
+cat__NAME_CONTRACT_TYPE_Revolving loans,0.012260332,3
+cat__NAME_EDUCATION_TYPE_Higher education,0.0074177496,4
+num__last5_underpay,0.007264359,5
+num__EXT_SOURCE_MIN,0.0067944834,6
+num__EXT_SOURCE_STD,0.006707085,7
+num__latepayment_ratio,0.00666211,8
+cat__CODE_GENDER_F,0.006510628,9
+num__recent_underpay,0.0064243427,10
+cat__CODE_GENDER_M,0.00628604,11
+num__credit_utilization_mean,0.006238216,12
+num__cnt_drawings_current_mean,0.0055534258,13
+num__refusal_rate,0.005468554,14
+cat__NAME_INCOME_TYPE_Working,0.0053109126,15
+num__late_x_payment_cv,0.00491071,16
+cat__FLAG_OWN_CAR_Y,0.004871636,17
+num__FLAG_DOCUMENT_3,0.004848299,18
+num__amt_drawings_atm_current_mean,0.004795991,19
+num__EXT_SOURCE_3,0.004490967,20
+num__bureau_debt_credit_ratio,0.004434869,21
+num__cnt_drawings_current_std,0.0043995883,22
+cat__FLAG_OWN_CAR_N,0.0042397827,23
+num__FLAG_EMP_PHONE,0.003996295,24
+num__AGE_YEARS,0.003947167,25
+num__EXT_SOURCE_2,0.0039373273,26
+num__EMPLOYMENT_YEARS,0.0036970829,27
+num__payment_ratio_q95,0.003650392,28
+cat__NAME_EDUCATION_TYPE_Secondary / secondary special,0.003644781,29
+cat__NAME_FAMILY_STATUS_Married,0.0034642685,30
+num__amt_payment_sum,0.0033880568,31
+cat__NAME_CONTRACT_TYPE_Cash loans,0.0033737363,32
+num__CREDIT_ANNUITY_RATIO,0.0033425358,33
+num__DEF_60_CNT_SOCIAL_CIRCLE,0.0031710777,34
+num__days_instalment_std,0.0031709769,35
+num__cnt_payment_std,0.0030948608,36
+num__amt_total_receivable_mean,0.0030765443,37
+num__bureau_active_loans,0.0030491813,38
+num__FLOORSMAX_MODE,0.0030421314,39
+num__cnt_instalment_max,0.0030144996,40
+num__recent_payment_mean,0.0029522774,41
+num__credit_utilization_min,0.00291398,42
+num__late_x_payment_ratio,0.002854649,43
+num__overpayment_count,0.00282837,44
+num__cnt_instalment_future_std,0.0028151595,45
+num__REG_CITY_NOT_LIVE_CITY,0.0028061385,46
+num__DAYS_BIRTH,0.0027621496,47
+num__amt_down_payment_max,0.0027596368,48
+num__credit_utilization_max,0.0027321177,49
+num__drawing_ratio_mean,0.002713343,50
+num__REGION_RATING_CLIENT_W_CITY,0.0026983372,51
+num__amt_down_payment_sum,0.0026981672,52
+num__late_cv,0.0026981467,53
+num__cnt_instalment_future_max,0.002652984,54
+num__AMT_GOODS_PRICE,0.002645131,55
+num__cnt_instalment_future_mean,0.002629641,56
+num__payment_ratio_q90,0.002598644,57
+cat__OCCUPATION_TYPE_Sales staff,0.0025525996,58
+num__AMT_ANNUITY,0.0025183107,59
+num__days_entry_payment_std,0.0025116412,60
+num__late_days_q95,0.0024732186,61
+num__payment_diff_sum,0.0024453232,62
+num__DEF_30_CNT_SOCIAL_CIRCLE,0.0024331273,63
+cat__NAME_INCOME_TYPE_State servant,0.0024298343,64
+num__cnt_payment_max,0.002401725,65
+num__future_installment_ratio_mean,0.002336594,66
+num__amt_payment_median,0.002328867,67
+num__last3_underpay,0.0023185415,68
+cat__OCCUPATION_TYPE_Core staff,0.0023044383,69
+num__recent_late_mean,0.0022816742,70
+num__DAYS_EMPLOYED,0.0022385034,71
+num__previous_refused,0.0022356124,72
+num__cnt_payment_mean,0.0022073009,73
+num__AMT_CREDIT,0.0021694468,74
+num__last5_ratio_mean,0.0021609226,75
+num__pos_record_count,0.0021599957,76
+num__amt_credit_limit_actual_mean,0.0021572022,77
+num__sk_dpd_def_mean_y,0.0021467041,78
+num__late_days_q90,0.0021452194,79
+num__days_entry_payment_min,0.0021367057,80
+num__amt_credit_sum_overdue_mean,0.0021340302,81
+num__months_balance_max,0.0021320877,82
+num__days_entry_payment_mean,0.002131058,83
+num__FLOORSMAX_MEDI,0.0021121206,84
+num__CAR_AGE_RATIO,0.0021056412,85
+num__amt_drawings_current_mean,0.0020816778,86
+num__cnt_instalment_mature_cum_min,0.00207928,87
+num__bb_late_ratio_sum,0.0020668276,88
+num__sk_dpd_def_std_y,0.0020531216,89
+num__payment_diff_max,0.0020511486,90
+num__amt_credit_sum_debt_mean,0.0020387287,91
+num__amt_credit_sum_max,0.0020294006,92
+num__AMT_REQ_CREDIT_BUREAU_QRT,0.0020202007,93
+num__last3_ratio_mean,0.0020183544,94
+num__ANNUITY_INCOME_RATIO,0.0020169439,95
+num__APARTMENTS_MEDI,0.0020145066,96
+num__LIVINGAREA_AVG,0.0020143737,97
+num__months_balance_std,0.0020065943,98
+cat__NAME_HOUSING_TYPE_Co-op apartment,0.001994278,99
+num__days_credit_max,0.0019882307,100
+cat__OCCUPATION_TYPE_Drivers,0.0019797648,101
+num__amt_instalment_sum,0.0019760383,102
+num__payment_ratio_sum_x,0.0019712285,103
+num__ELEVATORS_MEDI,0.0019549755,104
+num__num_instalment_version_sum,0.0019500883,105
+num__last3_payment_mean,0.0019474485,106
+num__amt_total_receivable_sum,0.0019344261,107
+num__last_payment_diff,0.0019299702,108
+num__last_entry_day,0.0019165948,109
+num__days_entry_payment_sum,0.0019146979,110
+num__payment_diff_mean,0.0018947187,111
+num__days_credit_enddate_max,0.0018818851,112
+num__EMPLOYMENT_RATIO,0.0018763554,113
+num__last5_late_mean,0.0018722865,114
+cat__WALLSMATERIAL_MODE_Wooden,0.0018715133,115
+cat__ORGANIZATION_TYPE_Construction,0.0018690982,116
+cat__ORGANIZATION_TYPE_Self-employed,0.0018614114,117
+num__days_instalment_sum,0.0018595261,118
+cat__ORGANIZATION_TYPE_Trade: type 7,0.0018492274,119
+num__EXT_SOURCE_1,0.0018481319,120
+num__LIVINGAREA_MEDI,0.0018473174,121
+num__overpay_x_payment_ratio,0.0018456614,122
+num__FLOORSMAX_AVG,0.0018165866,123
+num__days_instalment_min,0.0017970104,124
+num__amt_payment_mean,0.0017930308,125
+cat__HOUSETYPE_MODE_specific housing,0.0017889837,126
+num__payment_reliability,0.0017888776,127
+num__last5_payment_mean,0.0017879454,128
+num__amt_payment_q90,0.001784964,129
+num__bb_late_ratio_min,0.0017796117,130
+num__OWN_CAR_AGE,0.0017769232,131
+num__YEARS_BUILD_MEDI,0.0017745276,132
+num__days_instalment_mean,0.0017743008,133
+num__credit_card_records,0.0017728948,134
+num__late_days_sum,0.0017626497,135
+num__DAYS_ID_PUBLISH,0.0017603089,136
+num__cnt_drawings_current_sum,0.0017589971,137
+cat__OCCUPATION_TYPE_Accountants,0.0017446306,138
+cat__ORGANIZATION_TYPE_Transport: type 3,0.0017426691,139
+num__amt_down_payment_mean,0.0017210984,140
+num__drawing_ratio_std,0.001719495,141
+num__FLAG_DOCUMENT_18,0.0017192314,142
+num__sk_dpd_def_sum_y,0.0017105485,143
+cat__NAME_FAMILY_STATUS_Single / not married,0.0017040987,144
+cat__ORGANIZATION_TYPE_Business Entity Type 2,0.0017039431,145
+num__bb_late_ratio_mean,0.0017032576,146
+cat__ORGANIZATION_TYPE_Industry: type 9,0.0016961449,147
+cat__NAME_FAMILY_STATUS_Widow,0.0016925486,148
+num__amt_credit_sum_debt_sum,0.0016878287,149
+num__num_instalment_number_sum,0.0016874054,150
+num__early_days_min,0.001686127,151
+cat__ORGANIZATION_TYPE_Business Entity Type 1,0.0016840023,152
+num__days_credit_mean,0.0016811793,153
+num__cnt_instalment_mature_cum_mean,0.0016740223,154
+num__pos_returned_to_the_store,0.0016740041,155
+num__FLAG_DOCUMENT_16,0.0016702525,156
+num__FLAG_DOCUMENT_13,0.0016698354,157
+cat__NAME_TYPE_SUITE_Other_B,0.0016682388,158
+num__amt_balance_max,0.0016645326,159
+num__YEARS_BEGINEXPLUATATION_MODE,0.0016598316,160
+num__underpay_x_payment_ratio,0.0016596687,161
+num__amt_credit_sum_std,0.0016551511,162
+cat__ORGANIZATION_TYPE_Business Entity Type 3,0.001655049,163
+num__previous_approved,0.0016550187,164
+num__payment_ratio_max_x,0.0016458861,165
+cat__WALLSMATERIAL_MODE_Block,0.0016436065,166
+cat__ORGANIZATION_TYPE_School,0.0016426793,167
+num__avg_application_credit_ratio,0.001641899,168
+num__amt_credit_sum_mean,0.0016394446,169
+num__payment_ratio_sum_y,0.0016389561,170
+num__cnt_instalment_std,0.0016310521,171
+num__instalment_cv,0.001628788,172
+num__months_balance_min,0.0016255997,173
+num__days_decision_mean,0.0016238997,174
+num__days_termination_max,0.0016211283,175
+num__amt_down_payment_std,0.001620591,176
+num__cnt_drawings_current_max,0.0016136541,177
+num__approval_rate,0.0016110126,178
+num__amt_total_receivable_min,0.0016101253,179
+cat__OCCUPATION_TYPE_Waiters/barmen staff,0.0016099397,180
+num__amt_balance_sum,0.0016077518,181
+num__REGION_RATING_CLIENT,0.0016073268,182
+num__NONLIVINGAREA_MEDI,0.001606437,183
+num__recent_ratio_mean,0.0016031442,184
+num__amt_credit_sum_limit_std,0.0016023731,185
+num__bb_closed_ratio_max,0.0016020268,186
+num__amt_credit_sum_limit_mean,0.00160176,187
+num__days_credit_enddate_sum,0.0015971933,188
+num__amt_annuity_max,0.0015947043,189
+num__bureau_active_ratio,0.0015930791,190
+num__CREDIT_PER_PERSON,0.0015902137,191
+num__days_entry_payment_max,0.0015842399,192
+cat__ORGANIZATION_TYPE_Restaurant,0.0015810407,193
+num__LIVINGAPARTMENTS_MEDI,0.0015808092,194
+num__amt_balance_min,0.0015784446,195
+num__amt_payment_max,0.0015782246,196
+num__num_instalment_number_max,0.0015782163,197
+num__late_days_max,0.0015755545,198
+num__amt_annuity_mean,0.0015736459,199
+num__ANNUITY_PER_PERSON,0.0015702914,200
+num__sk_dpd_def_max_y,0.0015688322,201
+num__credit_card_late_count,0.0015663197,202
+num__amt_credit_sum_debt_max,0.0015644149,203
+num__bb_total_late_max,0.0015597581,204
+num__days_first_due_std,0.001551591,205
+num__amt_credit_sum_overdue_std,0.001550751,206
+cat__NAME_HOUSING_TYPE_With parents,0.0015506927,207
+num__bb_late_ratio_max,0.0015455813,208
+num__cnt_instalment_mature_cum_max,0.0015439985,209
+num__CREDIT_INCOME_RATIO,0.0015436606,210
+cat__ORGANIZATION_TYPE_Military,0.0015410719,211
+num__cnt_instalment_mature_cum_sum,0.0015403787,212
+num__underpay_amount_sum,0.0015376261,213
+num__num_instalment_number_std,0.0015369715,214
+num__overpay_amount_mean,0.001535965,215
+num__amt_credit_sum_overdue_sum,0.001535963,216
+num__APARTMENTS_MODE,0.0015359292,217
+num__cnt_instalment_future_sum,0.0015334695,218
+num__num_instalment_version_mean,0.001530369,219
+num__bb_month_count_max,0.0015277778,220
+num__days_instalment_max,0.0015267758,221
+num__underpay_trend,0.0015258933,222
+num__credit_day_overdue_max,0.0015258001,223
+num__months_balance_mean,0.0015236214,224
+cat__FONDKAPREMONT_MODE_not specified,0.0015234367,225
+num__amt_credit_sum_limit_sum,0.0015170543,226
+num__credit_card_late_ratio,0.0015170283,227
+num__sk_dpd_def_sum_x,0.0015157589,228
+num__amt_credit_limit_actual_sum,0.001512046,229
+num__last3_overpay,0.0015107443,230
+num__overpay_amount_sum,0.0015101354,231
+num__max_payment_ratio,0.0015062169,232
+num__early_days_mean,0.0015061802,233
+num__YEARS_BEGINEXPLUATATION_MEDI,0.0015029619,234
+cat__OCCUPATION_TYPE_Low-skill Laborers,0.0015001128,235
+num__days_termination_min,0.0014961794,236
+num__early_days_sum,0.0014957557,237
+num__amt_total_receivable_std,0.0014921542,238
+num__amt_credit_sum_sum,0.001490302,239
+num__late_x_amount,0.0014894179,240
+num__amt_drawings_current_sum,0.0014888061,241
+num__amt_credit_limit_actual_min,0.0014876531,242
+num__bb_month_count_sum,0.0014876488,243
+num__last3_late_mean,0.0014798797,244
+num__num_instalment_version_max,0.0014765131,245
+num__exactpayment_count,0.001475957,246
+num__payment_ratio_mean_x,0.0014737216,247
+cat__ORGANIZATION_TYPE_Trade: type 2,0.001473495,248
+num__months_balance_sum,0.001472075,249
+num__amt_credit_sum_limit_max,0.001471294,250
+num__amt_credit_sum_debt_std,0.001469166,251
+num__amt_annuity_min,0.0014678106,252
+num__underpay_amount_max,0.0014657894,253
+num__NONLIVINGAPARTMENTS_MODE,0.0014628264,254
+cat__NAME_FAMILY_STATUS_Separated,0.0014611396,255
+num__overpayment_ratio,0.0014610684,256
+num__YEARS_BUILD_MODE,0.001457281,257
+num__last_due_day,0.0014568409,258
+cat__OCCUPATION_TYPE_Private service staff,0.0014551015,259
+num__amt_instalment_min,0.001455087,260
+cat__OCCUPATION_TYPE_Cleaning staff,0.0014534477,261
+num__amt_credit_sum_min,0.0014511902,262
+num__num_instalment_version_std,0.0014498977,263
+num__bb_month_count_min,0.0014471248,264
+num__days_enddate_fact_sum,0.001446431,265
+num__last_payment_amount,0.0014432913,266
+num__DAYS_LAST_PHONE_CHANGE,0.0014429947,267
+num__amt_goods_price_std,0.0014414547,268
+num__cnt_payment_sum,0.0014402954,269
+num__bb_month_count_std,0.0014400837,270
+num__ratio_skew,0.0014331527,271
+num__days_decision_max,0.0014317111,272
+num__days_last_due_mean,0.0014315725,273
+num__ENTRANCES_AVG,0.001431352,274
+num__amt_payment_min,0.0014311217,275
+num__payment_skew,0.0014288554,276
+num__early_days_max,0.0014282737,277
+num__days_enddate_fact_std,0.0014276524,278
+num__future_installment_ratio_sum,0.001426557,279
+num__amt_payment_std,0.0014262943,280
+num__late_trend,0.0014256269,281
+num__AMT_REQ_CREDIT_BUREAU_WEEK,0.0014254996,282
+num__days_decision_std,0.0014211942,283
+num__amt_drawings_current_std,0.0014188901,284
+num__payment_consistency,0.0014187315,285
+cat__ORGANIZATION_TYPE_Bank,0.0014170893,286
+num__days_last_due_min,0.0014167817,287
+num__pos_active,0.0014166991,288
+num__amt_annuity_sum,0.001415982,289
+num__installment_record_count,0.0014157379,290
+num__amt_payment_current_min,0.0014145082,291
+num__amt_credit_min,0.0014078231,292
+num__amt_total_receivable_max,0.0014076314,293
+num__amt_credit_std,0.0014072002,294
+cat__OCCUPATION_TYPE_High skill tech staff,0.001405592,295
+cat__ORGANIZATION_TYPE_Trade: type 6,0.0014050051,296
+num__amt_goods_price_max,0.0014025542,297
+num__LIVINGAREA_MODE,0.0014017394,298
+num__amt_drawings_atm_current_sum,0.0014011312,299
+num__sk_dpd_mean_y,0.0014010438,300
+num__bb_closed_ratio_sum,0.0013997455,301
+num__amt_credit_sum,0.0013991612,302
+num__ratio_cv,0.0013966939,303
+num__DAYS_REGISTRATION,0.0013955346,304
+num__days_first_due_max,0.0013943893,305
+num__days_credit_enddate_mean,0.001392286,306
+cat__ORGANIZATION_TYPE_Police,0.0013910781,307
+num__amt_drawings_pos_current_sum,0.0013908605,308
+num__payment_diff_min,0.0013898083,309
+cat__WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0013877382,310
+num__days_last_due_sum,0.0013856179,311
+num__last_instalment_amount,0.0013841507,312
+num__days_last_due_std,0.0013839472,313
+num__future_installment_ratio_std,0.0013839195,314
+num__sk_dpd_def_mean_x,0.00138243,315
+num__amt_credit_sum_overdue_max,0.0013803418,316
+num__underpayment_ratio,0.0013791785,317
+num__bureau_closed_loans,0.001378342,318
+num__bureau_loan_count,0.0013773903,319
+num__days_last_due_max,0.0013764289,320
+num__payment_ratio_trend,0.0013755468,321
+num__amt_credit_sum_limit_min,0.0013748811,322
+num__bb_month_count_mean,0.0013736548,323
+num__days_enddate_fact_max,0.0013706252,324
+num__amt_instalment_mean,0.0013675361,325
+num__payment_diff_median,0.0013668273,326
+num__LIVINGAPARTMENTS_MODE,0.0013667537,327
+num__REG_REGION_NOT_LIVE_REGION,0.001364724,328
+num__old_payment_mean,0.0013646801,329
+num__OBS_60_CNT_SOCIAL_CIRCLE,0.0013616971,330
+num__cnt_instalment_sum,0.0013606779,331
+num__amt_instalment_median,0.0013581079,332
+num__days_termination_mean,0.0013571796,333
+num__ELEVATORS_AVG,0.0013551849,334
+num__max_payment,0.0013547082,335
+num__amt_application_max,0.0013538525,336
+num__sk_dpd_std_y,0.001353261,337
+num__num_instalment_number_mean,0.0013524004,338
+num__BASEMENTAREA_MEDI,0.00135193,339
+cat__FONDKAPREMONT_MODE_reg oper account,0.0013512713,340
+num__FLOORSMIN_MODE,0.0013503517,341
+num__REG_CITY_NOT_WORK_CITY,0.0013485557,342
+num__days_credit_enddate_std,0.0013472498,343
+num__cnt_instalment_min,0.0013467361,344
+num__amt_payment_q95,0.0013465916,345
+cat__NAME_HOUSING_TYPE_Rented apartment,0.0013454616,346
+num__payment_ratio_min_x,0.0013454423,347
+num__pos_late_ratio,0.00134494,348
+num__old_overpay,0.0013433557,349
+num__num_instalment_number_min,0.0013413442,350
+"cat__WALLSMATERIAL_MODE_Stone, brick",0.0013405756,351
+num__days_first_due_mean,0.0013390606,352
+num__NONLIVINGAPARTMENTS_MEDI,0.0013380812,353
+cat__WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0013368471,354
+num__COMMONAREA_MEDI,0.0013364317,355
+num__amt_credit_mean,0.0013361183,356
+num__payment_cv_missing,0.0013317706,357
+num__days_credit_min,0.0013317518,358
+num__COMMONAREA_MODE,0.0013317113,359
+num__underpay_amount_mean,0.0013285768,360
+num__sk_dpd_sum_x,0.0013270812,361
+num__exactpayment_ratio,0.0013261929,362
+num__days_credit_sum,0.0013254221,363
+cat__NAME_TYPE_SUITE_Other_A,0.0013235022,364
+num__amt_annuity_std,0.0013224529,365
+num__amt_down_payment_min,0.0013221623,366
+num__payment_diff_std,0.0013211279,367
+num__COMMONAREA_AVG,0.001320273,368
+num__payment_ratio_max_y,0.001319788,369
+num__amt_payment_total_current_sum,0.0013191102,370
+num__days_decision_min,0.0013187729,371
+num__amt_credit_limit_actual_std,0.0013185955,372
+num__AMT_REQ_CREDIT_BUREAU_DAY,0.0013166039,373
+num__bb_closed_ratio_mean,0.0013144681,374
+num__amt_application_mean,0.0013144277,375
+num__amt_goods_price_min,0.0013128452,376
+num__bb_late_ratio_std,0.0013114071,377
+num__days_credit_enddate_min,0.0013113456,378
+num__days_enddate_fact_min,0.0013108787,379
+num__amt_drawings_atm_current_std,0.0013106392,380
+num__last_late_days,0.001309642,381
+num__amt_application_min,0.0013088898,382
+num__payment_cv,0.001305869,383
+num__recent_vs_overall_payment,0.0013056042,384
+num__days_decision_sum,0.0013048258,385
+num__latepayment_count,0.0013047681,386
+num__LIVE_REGION_NOT_WORK_REGION,0.0013046251,387
+cat__NAME_HOUSING_TYPE_House / apartment,0.0013032571,388
+num__payment_ratio_std_x,0.0013009415,389
+num__BASEMENTAREA_MODE,0.0012987081,390
+num__REGION_POPULATION_RELATIVE,0.0012982793,391
+num__NONLIVINGAREA_AVG,0.0012980377,392
+num__pos_signed,0.0012941596,393
+num__pos_completed,0.0012915157,394
+num__days_first_due_min,0.0012908422,395
+cat__NAME_TYPE_SUITE_Unaccompanied,0.0012907018,396
+num__days_enddate_fact_mean,0.0012901393,397
+num__recent_vs_overall_late,0.0012897801,398
+num__bb_total_late_min,0.0012889324,399
+cat__ORGANIZATION_TYPE_Agriculture,0.0012879721,400
+num__sk_dpd_max_x,0.0012876785,401
+cat__ORGANIZATION_TYPE_Security Ministries,0.001287672,402
+num__late_days_median,0.0012870617,403
+num__bb_closed_ratio_std,0.0012851368,404
+cat__ORGANIZATION_TYPE_Hotel,0.0012849696,405
+num__LANDAREA_MEDI,0.0012838807,406
+num__ENTRANCES_MEDI,0.0012837574,407
+num__days_first_due_sum,0.0012818533,408
+num__HOUR_APPR_PROCESS_START,0.0012816235,409
+num__payment_trend,0.0012799727,410
+num__days_termination_std,0.0012777628,411
+num__late_days_std,0.0012740066,412
+num__ELEVATORS_MODE,0.0012711561,413
+num__amt_instalment_std,0.0012706486,414
+num__cnt_instalment_mean,0.0012687984,415
+num__overpay_trend,0.0012677376,416
+num__AMT_INCOME_TOTAL,0.0012667909,417
+"cat__NAME_TYPE_SUITE_Spouse, partner",0.0012664445,418
+num__late_x_underpay,0.0012627298,419
+num__drawing_ratio_max,0.0012608243,420
+num__old_late_mean,0.0012604619,421
+cat__NAME_EDUCATION_TYPE_Incomplete higher,0.0012601326,422
+num__MISSING_COUNT,0.0012598633,423
+num__pos_late_count,0.00125858,424
+num__amt_goods_price_sum,0.0012569487,425
+num__GOODS_INCOME_RATIO,0.0012558411,426
+num__recent_vs_overall_ratio,0.0012543905,427
+num__CHILDREN_RATIO,0.0012538845,428
+cat__NAME_HOUSING_TYPE_Office apartment,0.0012522391,429
+num__future_installment_ratio_max,0.0012520377,430
+cat__WEEKDAY_APPR_PROCESS_START_MONDAY,0.0012515724,431
+num__REG_REGION_NOT_WORK_REGION,0.0012512837,432
+num__amt_credit_max,0.0012493816,433
+num__late_x_ratio_cv,0.0012486784,434
+num__INCOME_PER_FAMILY,0.0012470998,435
+num__days_credit_std,0.0012424606,436
+num__amt_payment_total_current_min,0.0012418436,437
+cat__ORGANIZATION_TYPE_Transport: type 4,0.0012406348,438
+num__AMT_REQ_CREDIT_BUREAU_MON,0.0012366482,439
+cat__NAME_HOUSING_TYPE_Municipal apartment,0.0012357116,440
+num__late_skew,0.001235175,441
+num__drawing_ratio_sum,0.001233776,442
+num__underpay_amount_std,0.0012336769,443
+num__days_termination_sum,0.0012325231,444
+num__YEARS_BEGINEXPLUATATION_AVG,0.0012313005,445
+num__amt_drawings_pos_current_max,0.0012301357,446
+num__payment_ratio_mean_y,0.0012294007,447
+num__amt_goods_price_mean,0.0012280738,448
+num__NONLIVINGAPARTMENTS_AVG,0.0012266149,449
+cat__WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0012238248,450
+num__cnt_drawings_current_min,0.0012225144,451
+num__TOTALAREA_MODE,0.0012194291,452
+num__credit_day_overdue_mean,0.0012186762,453
+num__amt_payment_total_current_max,0.00121717,454
+num__last_early_days,0.0012142146,455
+num__amt_payment_current_mean,0.0012116344,456
+num__amt_instalment_max,0.0012114848,457
+num__BASEMENTAREA_AVG,0.0012101753,458
+num__amt_application_std,0.0012101143,459
+num__underpayment_count,0.0012084122,460
+num__LANDAREA_AVG,0.001207165,461
+num__amt_payment_total_current_std,0.0012047715,462
+num__bb_closed_ratio_min,0.0012002338,463
+num__amt_credit_sum_debt_min,0.00119781,464
+num__verylatepayment_ratio,0.0011974892,465
+num__old_ratio_mean,0.0011906935,466
+num__payment_ratio_std_y,0.0011895322,467
+num__CNT_FAM_MEMBERS,0.0011884014,468
+cat__NAME_EDUCATION_TYPE_Lower secondary,0.0011830734,469
+num__bb_total_late_std,0.0011822451,470
+cat__ORGANIZATION_TYPE_Realtor,0.0011809216,471
+num__late_days_min,0.0011785936,472
+num__amt_balance_std,0.0011784699,473
+cat__WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0011772962,474
+cat__FONDKAPREMONT_MODE_reg oper spec account,0.0011770794,475
+cat__NAME_TYPE_SUITE_Family,0.0011770468,476
+num__old_underpay,0.0011764393,477
+num__credit_utilization_std,0.0011754656,478
+num__OBS_30_CNT_SOCIAL_CIRCLE,0.0011749602,479
+num__FLAG_PHONE,0.0011702683,480
+num__amt_balance_mean,0.0011667742,481
+num__amt_drawings_pos_current_std,0.0011606826,482
+num__FLAG_DOCUMENT_14,0.0011585577,483
+num__FLAG_WORK_PHONE,0.0011580295,484
+num__YEARS_BUILD_AVG,0.0011518529,485
+num__cnt_instalment_future_min,0.0011501582,486
+num__amt_payment_total_current_mean,0.0011498064,487
+num__amt_drawings_pos_current_mean,0.001148727,488
+num__bb_total_late_mean,0.0011483763,489
+num__previous_unused_offer,0.0011464132,490
+num__ENTRANCES_MODE,0.0011433027,491
+num__early_days_std,0.0011412886,492
+num__NONLIVINGAREA_MODE,0.001137731,493
+cat__ORGANIZATION_TYPE_Industry: type 12,0.0011367656,494
+cat__NAME_INCOME_TYPE_Commercial associate,0.0011348727,495
+num__previous_canceled,0.0011338571,496
+num__sk_dpd_max_y,0.001132047,497
+cat__ORGANIZATION_TYPE_Medicine,0.0011266343,498
+num__late_days_mean,0.0011250213,499
+num__APARTMENTS_AVG,0.0011211664,500
+cat__ORGANIZATION_TYPE_Legal Services,0.0011202364,501
+num__amt_payment_current_sum,0.0011166494,502
+num__LANDAREA_MODE,0.0011158859,503
+num__sk_dpd_sum_y,0.0011139842,504
+num__min_payment,0.0011132867,505
+num__FLAG_DOCUMENT_6,0.0011112973,506
+num__cnt_instalment_mature_cum_std,0.0011070124,507
+num__underpay_x_amount,0.0011058453,508
+num__payment_ratio_median,0.0011051361,509
+num__AMT_REQ_CREDIT_BUREAU_YEAR,0.0011039586,510
+num__amt_credit_limit_actual_max,0.0011030113,511
+cat__WALLSMATERIAL_MODE_Panel,0.001100504,512
+num__amt_payment_current_max,0.0010977458,513
+cat__NAME_FAMILY_STATUS_Civil marriage,0.0010956487,514
+num__amt_application_sum,0.0010922675,515
+num__bb_total_late_sum,0.0010887415,516
+num__FLAG_DOCUMENT_15,0.0010882124,517
+num__cnt_payment_min,0.0010873564,518
+cat__NAME_TYPE_SUITE_Children,0.0010823265,519
+num__amt_drawings_current_max,0.0010809877,520
+cat__WALLSMATERIAL_MODE_Others,0.0010776644,521
+num__last_payment_ratio,0.0010734572,522
+num__overpay_amount_max,0.0010700254,523
+cat__OCCUPATION_TYPE_Managers,0.0010684672,524
+num__amt_payment_current_std,0.0010626765,525
+num__LIVINGAPARTMENTS_AVG,0.0010575795,526
+num__payment_ratio_min_y,0.0010555605,527
+num__credit_utilization_sum,0.0010543234,528
+num__min_payment_ratio,0.0010542622,529
+cat__OCCUPATION_TYPE_Medicine staff,0.0010513046,530
+cat__ORGANIZATION_TYPE_Other,0.0010463555,531
+num__max_overpay,0.0010385513,532
+num__FLAG_EMAIL,0.0010188663,533
+cat__ORGANIZATION_TYPE_Kindergarten,0.0010176764,534
+num__FLAG_DOCUMENT_8,0.0010145316,535
+num__extremelatepayment_ratio,0.001014379,536
+cat__WEEKDAY_APPR_PROCESS_START_THURSDAY,0.001001187,537
+num__FLOORSMIN_AVG,0.0009999523,538
+num__previous_application_count,0.0009976664,539
+cat__ORGANIZATION_TYPE_Government,0.0009728903,540
+cat__NAME_EDUCATION_TYPE_Academic degree,0.0009715054,541
+cat__ORGANIZATION_TYPE_Industry: type 5,0.00097084773,542
+cat__ORGANIZATION_TYPE_Services,0.0009648956,543
+num__sk_dpd_mean_x,0.00095934235,544
+num__LIVE_CITY_NOT_WORK_CITY,0.00095558213,545
+cat__ORGANIZATION_TYPE_Industry: type 3,0.0009554131,546
+num__amt_drawings_atm_current_max,0.0009545991,547
+cat__OCCUPATION_TYPE_Laborers,0.0009397017,548
+num__last5_overpay,0.00092634297,549
+num__overpay_amount_std,0.0009236409,550
+cat__WEEKDAY_APPR_PROCESS_START_TUESDAY,0.00091499795,551
+num__CNT_CHILDREN,0.0009033134,552
+num__FLAG_DOCUMENT_5,0.0008941367,553
+cat__FLAG_OWN_REALTY_N,0.0008719079,554
+num__FLOORSMIN_MEDI,0.00086856674,555
+num__amt_drawings_current_min,0.0008619777,556
+num__future_installment_ratio_min,0.00079307007,557
+num__credit_day_overdue_sum,0.00066984934,558
+num__perfect_customer,0.000513255,559
+cat__FONDKAPREMONT_MODE_org spec account,0.0003573361,560
+cat__ORGANIZATION_TYPE_Trade: type 1,0.0,561
+num__FLAG_MOBIL,0.0,562
+num__FLAG_CONT_MOBILE,0.0,563
+cat__ORGANIZATION_TYPE_Telecom,0.0,564
+num__min_late_days,0.0,565
+num__stable_customer,0.0,566
+num__chronic_late_customer,0.0,567
+num__pos_approved,0.0,568
+num__max_underpay,0.0,569
+num__pos_amortized_debt,0.0,570
+num__drawing_ratio_min,0.0,571
+num__chronic_underpayer,0.0,572
+num__payment_ratio_mean_missing,0.0,573
+num__amt_payment_mean_missing,0.0,574
+num__late_days_mean_missing,0.0,575
+num__amt_drawings_atm_current_min,0.0,576
+num__amt_drawings_pos_current_min,0.0,577
+num__pos_demand,0.0,578
+num__sk_dpd_def_std_x,0.0,579
+num__sk_dpd_min_x,0.0,580
+num__sk_dpd_std_x,0.0,581
+num__sk_dpd_def_max_x,0.0,582
+num__sk_dpd_def_min_x,0.0,583
+cat__ORGANIZATION_TYPE_Security,0.0,584
+cat__ORGANIZATION_TYPE_Trade: type 5,0.0,585
+cat__ORGANIZATION_TYPE_Trade: type 4,0.0,586
+cat__ORGANIZATION_TYPE_Trade: type 3,0.0,587
+cat__WALLSMATERIAL_MODE_Monolithic,0.0,588
+cat__HOUSETYPE_MODE_block of flats,0.0,589
+cat__HOUSETYPE_MODE_terraced house,0.0,590
+cat__WALLSMATERIAL_MODE_Mixed,0.0,591
+num__sk_dpd_min_y,0.0,592
+num__sk_dpd_def_min_y,0.0,593
+num__recent_overpay,0.0,594
+num__FLAG_DOCUMENT_2,0.0,595
+num__max_late_days,0.0,596
+num__FLAG_DOCUMENT_7,0.0,597
+cat__OCCUPATION_TYPE_Cooking staff,0.0,598
+num__FLAG_DOCUMENT_4,0.0,599
+num__FLAG_DOCUMENT_12,0.0,600
+num__FLAG_DOCUMENT_11,0.0,601
+num__FLAG_DOCUMENT_10,0.0,602
+num__FLAG_DOCUMENT_9,0.0,603
+cat__NAME_INCOME_TYPE_Businessman,0.0,604
+cat__NAME_FAMILY_STATUS_Unknown,0.0,605
+num__FLAG_DOCUMENT_17,0.0,606
+cat__NAME_TYPE_SUITE_Group of people,0.0,607
+num__extremelatepayment_count,0.0,608
+num__verylatepayment_count,0.0,609
+num__num_instalment_version_min,0.0,610
+num__overpay_amount_min,0.0,611
+num__underpay_amount_min,0.0,612
+cat__CODE_GENDER_XNA,0.0,613
+cat__FLAG_OWN_REALTY_Y,0.0,614
+num__FLAG_DOCUMENT_19,0.0,615
+cat__NAME_INCOME_TYPE_Unemployed,0.0,616
+cat__NAME_INCOME_TYPE_Student,0.0,617
+cat__NAME_INCOME_TYPE_Pensioner,0.0,618
+cat__NAME_INCOME_TYPE_Maternity leave,0.0,619
+num__amt_credit_sum_overdue_min,0.0,620
+num__credit_day_overdue_std,0.0,621
+num__credit_day_overdue_min,0.0,622
+cat__OCCUPATION_TYPE_Realty agents,0.0,623
+cat__ORGANIZATION_TYPE_Industry: type 10,0.0,624
+cat__ORGANIZATION_TYPE_Industry: type 1,0.0,625
+cat__ORGANIZATION_TYPE_Housing,0.0,626
+cat__ORGANIZATION_TYPE_Emergency,0.0,627
+cat__ORGANIZATION_TYPE_Culture,0.0,628
+cat__ORGANIZATION_TYPE_Electricity,0.0,629
+cat__ORGANIZATION_TYPE_Cleaning,0.0,630
+cat__ORGANIZATION_TYPE_Advertising,0.0,631
+cat__OCCUPATION_TYPE_Security staff,0.0,632
+cat__OCCUPATION_TYPE_HR staff,0.0,633
+cat__OCCUPATION_TYPE_IT staff,0.0,634
+cat__OCCUPATION_TYPE_Secretaries,0.0,635
+cat__ORGANIZATION_TYPE_Transport: type 1,0.0,636
+cat__ORGANIZATION_TYPE_Industry: type 13,0.0,637
+cat__ORGANIZATION_TYPE_Industry: type 2,0.0,638
+cat__ORGANIZATION_TYPE_Industry: type 11,0.0,639
+num__AMT_REQ_CREDIT_BUREAU_HOUR,0.0,640
+num__FLAG_DOCUMENT_21,0.0,641
+num__FLAG_DOCUMENT_20,0.0,642
+cat__ORGANIZATION_TYPE_XNA,0.0,643
+cat__ORGANIZATION_TYPE_Transport: type 2,0.0,644
+cat__ORGANIZATION_TYPE_University,0.0,645
+cat__ORGANIZATION_TYPE_Industry: type 4,0.0,646
+cat__ORGANIZATION_TYPE_Industry: type 8,0.0,647
+cat__ORGANIZATION_TYPE_Insurance,0.0,648
+cat__ORGANIZATION_TYPE_Industry: type 6,0.0,649
+cat__ORGANIZATION_TYPE_Industry: type 7,0.0,650
+cat__ORGANIZATION_TYPE_Mobile,0.0,651
+cat__ORGANIZATION_TYPE_Postal,0.0,652
+cat__ORGANIZATION_TYPE_Religion,0.0,653
+cat__EMERGENCYSTATE_MODE_No,0.0,654
+cat__EMERGENCYSTATE_MODE_Yes,0.0,655
